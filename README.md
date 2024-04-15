@@ -13,7 +13,7 @@
 
 ![image](https://github.com/leezhuuu/Youchat2api/assets/69389053/94e743af-18a6-42b0-8a32-cd83fd9564bf)
 
-打开这个文件，用记事本就能打开，将json粘贴进去
+打开这个文件“precookie.json”，用记事本就能打开，将json粘贴进去
 ![image](https://github.com/leezhuuu/Youchat2api/assets/69389053/ab3ee97b-9632-408d-87ee-df287c5d8136)
 
 运行“autocookie”，会在当前目录下自动创建cookie.json
