@@ -25,6 +25,31 @@
 剩下的懂得都懂🤭
 
 
+这里附一个我的oneapi重定向规则
+{
+  "claude-3-haiku": "claude_3_haiku",
+  "claude-3-opus": "claude_3_opus",
+  "claude-3-sonnet": "claude_3_sonnet",
+  "claude-3-haiku-20240307": "claude_3_haiku",
+  "claude-3-opus-20240229": "claude_3_opus",
+  "claude-3-sonnet-20240229": "claude_3_sonnet",
+  "claude-2": "claude_2",
+  "claude_2.0": "claude_2",
+  "gpt-4":"gpt_4",
+  "gpt-4-1106-preview": "gpt_4_turbo",
+  "gpt-4-0125-preview": "gpt_4_turbo",
+  "gpt-4-turbo-preview": "gpt_4_turbo",
+  "gemini-pro": "gemini_pro",
+  "gemini-1.5-pro": "gemini_1.5_pro",
+  "DBRX-Instruct": "databricks_dbrx_instruct",
+  "Command R": "command_r",
+  "Command R+": "command_r_plus",
+  "Zephyr": "zephyr"
+}
+![image](https://github.com/leezhuuu/Youchat2api/assets/69389053/78e96c05-1511-4be7-8b02-1d2d47e53522)
+
+
+
 
 以下是chatgpt版本
 ---
