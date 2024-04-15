@@ -11,6 +11,7 @@
 
 登录 you.com
 
+保持本项目所有文件在同一目录中
 打开插件，导出cookie为json
 
 ![image](https://github.com/leezhuuu/Youchat2api/assets/69389053/94e743af-18a6-42b0-8a32-cd83fd9564bf)
